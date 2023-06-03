@@ -1,0 +1,10 @@
+D:\project\BinarySeacrhTest\bin\Debug\BinarySeacrhTest.exe.config
+D:\project\BinarySeacrhTest\bin\Debug\BinarySeacrhTest.exe
+D:\project\BinarySeacrhTest\bin\Debug\BinarySeacrhTest.pdb
+D:\project\BinarySeacrhTest\bin\Debug\xNet.dll
+D:\project\BinarySeacrhTest\obj\Debug\BinarySeacrhTest.csproj.AssemblyReference.cache
+D:\project\BinarySeacrhTest\obj\Debug\BinarySeacrhTest.csproj.SuggestedBindingRedirects.cache
+D:\project\BinarySeacrhTest\obj\Debug\BinarySeacrhTest.csproj.CoreCompileInputs.cache
+D:\project\BinarySeacrhTest\obj\Debug\BinarySeacrhTest.csproj.CopyComplete
+D:\project\BinarySeacrhTest\obj\Debug\BinarySeacrhTest.exe
+D:\project\BinarySeacrhTest\obj\Debug\BinarySeacrhTest.pdb
